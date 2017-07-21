@@ -27,7 +27,7 @@
     "versionPublish": "4.0.14",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<FilesMatch \"\\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav)$\">\r\n</FilesMatch>",
     "cookiesAlert": ""
   },
   "pages": {
@@ -163,7 +163,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "35",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
