@@ -27,7 +27,7 @@
     "versionPublish": "4.0.14",
     "favicon": "@PROJECT_PATH@/assets/images/icon-small-29x29-1.png",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">\r\nfunction downloadJSAtOnload() {\r\nvar element = document.createElement(\"script\");\r\nelement.src = \"assets/jarallax/jarallax.js\";\r\ndocument.body.appendChild(element);\r\n}\r\nif (window.addEventListener)\r\nwindow.addEventListener(\"load\", downloadJSAtOnload, false);\r\nelse if (window.attachEvent)\r\nwindow.attachEvent(\"onload\", downloadJSAtOnload);\r\nelse window.onload = downloadJSAtOnload;\r\n<br>",
+    "google-analytics": "",
     "cookiesAlert": ""
   },
   "pages": {
