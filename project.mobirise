@@ -53,10 +53,12 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#eb6b56"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#eb6b56",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -77,7 +79,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#eb6b56",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -97,7 +99,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#eb6b56"
             }
           },
           "_name": "menu",
@@ -111,8 +113,12 @@
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.7",
-            "fontName": {},
-            "fontColor": "#000000",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#eb6b56",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -722,10 +728,12 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#eb6b56"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#eb6b56",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -746,7 +754,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#eb6b56",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -766,7 +774,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#eb6b56"
             }
           },
           "_params": {
@@ -778,8 +786,12 @@
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.7",
-            "fontName": {},
-            "fontColor": "#000000",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#eb6b56",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page2.html\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Based on Bootstrap</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">COMPARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">H\u001bELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -830,10 +842,12 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#eb6b56"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#eb6b56",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -854,7 +868,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#eb6b56",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -874,7 +888,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#eb6b56"
             }
           },
           "_name": "menu",
@@ -888,8 +902,12 @@
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.7",
-            "fontName": {},
-            "fontColor": "#000000",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#eb6b56",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -1421,10 +1439,12 @@
               "font-size": "24px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#eb6b56"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#eb6b56",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.7rem"
@@ -1445,7 +1465,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#eb6b56",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1465,7 +1485,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#eb6b56"
             }
           },
           "_name": "menu",
@@ -1478,8 +1498,12 @@
             "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.7",
-            "fontName": {},
-            "fontColor": "#000000",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#eb6b56",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
