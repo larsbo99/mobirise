@@ -1,6 +1,8 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -419,6 +421,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -487,11 +491,14 @@ h6,
 #header5-h .mbr-section-lead {
   color: #9c9a9a;
 }
+
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
 }
 #menu-1 .navbar-toggler {
   color: #ffffff;
@@ -558,11 +565,14 @@ h6,
   text-align: right;
   color: #3d8eb9;
 }
+
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-7 .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
 }
 #menu-7 .navbar-toggler {
   color: #ffffff;
@@ -633,11 +643,14 @@ h6,
 #msg-box7-p .lead p {
   color: #fff;
 }
+
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-j .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
 }
 #menu-j .navbar-toggler {
   color: #ffffff;
@@ -700,11 +713,14 @@ h6,
 #menu-j .close-icon::after {
   background-color: #ffffff;
 }
+
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-u .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
 }
 #menu-u .navbar-toggler {
   color: #ffffff;
