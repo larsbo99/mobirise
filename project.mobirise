@@ -59,22 +59,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -107,10 +107,10 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.45",
+            "bgColor": "#c0a375",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -728,22 +728,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -774,10 +774,10 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.45",
+            "bgColor": "#c0a375",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -836,22 +836,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -884,10 +884,10 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.45",
+            "bgColor": "#c0a375",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -1427,22 +1427,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1474,10 +1474,10 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.45",
+            "bgColor": "#c0a375",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -1588,22 +1588,22 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b08c52"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#bb9c6a!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#c0a375"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1635,10 +1635,10 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "1.45",
+            "bgColor": "#c0a375",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
